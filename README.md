@@ -1,6 +1,6 @@
 # SpamNix - AI-Powered Spam Detection System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue)](https://spam-ubh0.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue)](https://spam-ubh0.onrender.com/) <img src="https://visitor-badge.laobi.icu/badge?page_id=Atryee-Chatterjee.AskMeMaybe" alt="Repo Views"/>
 
 🎓 **Project Highlight**: SpamNix is a web-based spam detection platform developed during my internship at Travarsa Private Limited. This intelligent system combines machine learning and web technologies to detect and filter spam messages effectively, ensuring safer platforms for users.
 
