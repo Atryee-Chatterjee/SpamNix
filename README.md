@@ -47,12 +47,31 @@ All models are trained on preprocessed text data and work together to minimize f
 
 The models are trained on a comprehensive spam dataset sourced from Kaggle, containing thousands of labeled messages categorized as spam or not-spam. The dataset includes diverse examples of SMS and email messages, ensuring the models can handle various types of spam patterns.
 
+## 👩‍💻 Meet the Developer
+
+<table>
+<tr>
+<td align="center">
+
+### ATRYEE CHATTERJEE
+
+<img src="https://github.com/Atryee-Chatterjee.png" width="150px" style="border-radius:50%" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/atryee-chatterjee/">LinkedIn</a> • <a href="https://github.com/Atryee-Chatterjee">GitHub</a> • <a href="mailto:atryeechatterjee31@gmail.com">Email</a>
+<br>
+
+**Full Stack Developer** 
+
+</td>
+</tr>
+</table>
+
 ## 🌐 Live Demo
 
 **Experience SpamNix in action**: [https://spam-ubh0.onrender.com/](https://spam-ubh0.onrender.com/)
 
-* GitHub: https://github.com/Atryee-Chatterjee
-* LinkedIn: www.linkedin.com/in/atryee-chatterjee
 
 ---
 
